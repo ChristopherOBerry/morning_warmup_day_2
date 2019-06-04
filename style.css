@@ -1,6 +1,6 @@
-.colorborder {
-    border-color: blue;
-    border-width: 20px;
+body {
+    color: blue;
+    font-family: default;
 
 }
 
@@ -10,8 +10,8 @@ h1 {
 
 }
 p{
-    color: red;
-    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-family: default;
 
 
 }
