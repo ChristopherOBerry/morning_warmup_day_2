@@ -1,5 +1,11 @@
 img {
     border-color: blue;
     border-width: 20px;
+
+}
+
+h1 {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
     
 }
