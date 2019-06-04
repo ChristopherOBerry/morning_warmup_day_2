@@ -1,3 +1,11 @@
-{
-    
+header {
+    background-color: lightgray;
+    height: 25vh;
+}
+
+.left {
+   text-align: left;
+}
+.right {
+   text-align: right;
 }
