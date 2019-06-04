@@ -11,5 +11,18 @@ header {
 }
 .right * {
     text-align: right;
+
+}
+
+.skills ul {
+    list-style: none;
+    margin: auto;
     
+}
+
+.skills ul li {
+    background-color: gray;
+    padding: .25em;
+    margin: .25em;
+    display: inline-block;
 }
